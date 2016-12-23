@@ -116,7 +116,7 @@
         <!-- Portfolio Section -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Some Glimpses into my Activities.</h2>
+                <h2 class="page-header">Some Glimpses into my activities.</h2>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="#">
