@@ -19,7 +19,7 @@
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -110,7 +110,17 @@
             </div>
         </div>
         <!-- /.row -->
-
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">
+                    Resume - PDF Format
+                </h2>
+            </div>
+            
+            <div class="col-lg-12">
+                <embed src="pdfFiles/Resume_ak229_security.pdf" width="1156" height="960" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+            </div>
+        </div>
 
         
         <hr>
