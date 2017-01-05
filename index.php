@@ -47,9 +47,7 @@
             <!-- Collect the nav linhks, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="about.php">About</a>
-                    </li>
+
                     <li>
                         <a href="projects.php">Projects</a>
                     </li>
@@ -57,7 +55,7 @@
                         <a href="contact.php">Contact</a>
                     </li>
                     <li>
-                        <a href="other.php">Other Work</a>
+                        <a href="other.php">Other Interests</a>
                     </li>
                 </ul>
             </div>
@@ -113,45 +111,7 @@
         </div>
         <!-- /.row -->
 
-        <!-- Portfolio Section -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">Some Glimpses into my Activities.</h2>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/tutr_700x450.jpg" alt="Team Tutr">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/2.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/3.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/4.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/5.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/6.jpg" alt="">
-                </a>
-            </div>
-        </div>
-        <!-- /.row -->
 
-        <!-- Features Section -->
         
         <hr>
 

@@ -42,14 +42,12 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Start Bootstrap</a>
+                <a class="navbar-brand" href="index.php">Abhishek Kulkarni</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="about.php">About</a>
-                    </li>
+
                     <li>
                         <a href="projects.php">Projects</a>
                     </li>
@@ -57,7 +55,7 @@
                         <a href="contact.php">Contact</a>
                     </li>
                     <li>
-                        <a href="other.php">Other</a>
+                        <a href="other.php">Other Interests</a>
                     </li> 
                 </ul>
             </div>
@@ -73,7 +71,6 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">Sidebar Page
-                    <small>Subheading</small>
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="index.php">Home</a>
@@ -90,7 +87,6 @@
             <div class="col-md-3">
                 <div class="list-group">
                     <a href="index.php" class="list-group-item">Home</a>
-                    <a href="about.php" class="list-group-item">About</a>
                     <a href="projects.php" class="list-group-item">Projects</a>
                     <a href="contact.php" class="list-group-item">Contact</a>
                     <a href="other.php" class="list-group-item">Other</a>
