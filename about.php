@@ -73,7 +73,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">About
-                    <small>Subheading</small>
+                    <small>Me</small>
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="index.php">Home</a>
@@ -90,7 +90,7 @@
                 <img class="img-responsive" src="http://placehold.it/750x450" alt="">
             </div>
             <div class="col-md-6">
-                <h2>About Modern Business</h2>
+                <h2>About Me</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, magni, aperiam vitae illum voluptatum aut sequi impedit non velit ab ea pariatur sint quidem corporis eveniet. Odit, temporibus reprehenderit dolorum!</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis?</p>
@@ -101,13 +101,13 @@
         <!-- Team Members -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Our Team</h2>
+                <h2 class="page-header">People I have worked with</h2>
             </div>
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>John Smith<br>
+                        <h3>Jayneesh Wanjara<br>
                             <small>Job Title</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
@@ -126,7 +126,7 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>John Smith<br>
+                        <h3>Devasia Thomas<br>
                             <small>Job Title</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
@@ -145,7 +145,7 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>John Smith<br>
+                        <h3>Dhaval Taunk<br>
                             <small>Job Title</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
@@ -164,7 +164,7 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>John Smith<br>
+                        <h3>Anish Joshi<br>
                             <small>Job Title</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
@@ -183,7 +183,7 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>John Smith<br>
+                        <h3>Akshay Suresh<br>
                             <small>Job Title</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
@@ -202,7 +202,7 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>John Smith<br>
+                        <h3>Akash Gupta<br>
                             <small>Job Title</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
@@ -216,32 +216,6 @@
                         </ul>
                     </div>
                 </div>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <!-- Our Customers -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">Our Customers</h2>
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
             </div>
         </div>
         <!-- /.row -->

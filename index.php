@@ -74,7 +74,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">
-                    Welcome to my Profile!
+                    Welcome to Abhishek Kulkarni's Profile!
                 </h1>
             </div>
             <div class="col-md-4">
@@ -124,28 +124,28 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.php">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                <a href="#">
+                    <img class="img-responsive img-portfolio img-hover" src="image/2.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.php">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                <a href="#">
+                    <img class="img-responsive img-portfolio img-hover" src="image/3.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.php">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                <a href="#">
+                    <img class="img-responsive img-portfolio img-hover" src="image/4.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.php">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                <a href="#">
+                    <img class="img-responsive img-portfolio img-hover" src="image/5.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.php">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                <a href="#">
+                    <img class="img-responsive img-portfolio img-hover" src="image/6.jpg" alt="">
                 </a>
             </div>
         </div>

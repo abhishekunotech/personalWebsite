@@ -56,7 +56,7 @@
                     <li>
                         <a href="contact.php">Contact</a>
                     </li>
-                    <li>
+                    <li class="active">
                         <a href="other.php">Other Work</a>
                     </li>
                 </ul>
@@ -70,6 +70,18 @@
     <!-- Page Content -->
     <div class="container">
 
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Other
+                    <small>Interests</small>
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="index.php">Home</a>
+                    </li>
+                    <li class="active">Other</li>
+                </ol>
+            </div>
+        </div>
         <!-- Marketing Icons Section -->
         <div class="row">
             <div class="col-lg-12">

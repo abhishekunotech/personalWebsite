@@ -1,6 +1,6 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Modern Business](http://startbootstrap.com/template-overviews/modern-business/)
+# [Abhishek Aravind Kulkarni](http://abhishek-tuere.me/) 
 
-[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+[My Personal Website](http://abhishek-tuere.me) is a website dedicated as a  created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
 
 ## Getting Started
 
