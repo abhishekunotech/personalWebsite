@@ -2,7 +2,7 @@
 
 [My Personal Website](http://abhishek-tuere.me) is a website dedicated to showing off my personal portfolio to potential employers and fellow coders, who might be interested in working with me on different projects. I love security-related stuff, btw. 
 
-On a side note, this is a very clean template to build a personal portfolio website and I invite anyone to fork this repo and create their own website by personalizing this.
+On a side note, this is a very clean template to build a personal portfolio website and I invite everyone to fork this repo and create their own website by personalizing this.
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
