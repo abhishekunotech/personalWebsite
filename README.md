@@ -25,4 +25,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 I have made my fair few modifications from the original template, so feel free to shoot hate mail (and a few praises, if you don't mind) to me - uatuere[at]gmail[dot]com
 ## Copyright and License
 
-Copyright 2017 Abhishek Aravind Kulkarni. Code released under the [Apache 2.0 Licence](https://github.com/ak229/personalWebsite/LICENSE) license.
+Copyright 2017 Abhishek Aravind Kulkarni. Code released under the [Apache 2.0 Licence](https://github.com/ak229/personalWebsite/blob/master/LICENSE) license.
