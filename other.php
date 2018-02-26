@@ -47,9 +47,7 @@
             <!-- Collect the nav linhks, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="about.php">About</a>
-                    </li>
+                    
                     <li>
                         <a href="projects.php">Projects</a>
                     </li>
@@ -88,10 +86,10 @@
         <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Projects I have mentored</h2>
+                <h2 class="page-header">My Hobbies</h2>
                 <h3>I take great interest in mentoring individuals and teams, in trying to help them figure out where to proceed in terms of personal, career and team goals. Here are few of the projects, I have mentored over the course of past few months.</h3>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
@@ -105,7 +103,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
@@ -119,7 +117,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
@@ -133,67 +131,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <img src = "image/segfault.jpg" alt="Seg Fault" height="120" width="120" />
-                        </span>
-                    </div>
-                    <div class="panel-body">
-                        <h4>SegFault Forever: a 3D v/s 2D Game</h4>
-                        <p><b>Team Members:</b> Kody Fintak, Benny Siu, Matthew Luck, Allen Ng</p>
-                        <a href="https://github.com/Kodyfint/3Dvs2D_vr" class="btn btn-primary">Learn More</a>
-                    </div>
-                </div>
-            </div>
         </div>
 
-       <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">My Other Hobbies</h2>
-                <h3>I am the quintessential Nerd, naah.. just kidding. I love Gaming though, especially making maps for counter strike. Besides, I am learning the Bass now (phew, end of my piano days). Besides, I  love managing pages and designing creative content for facebook groups and pages, especially this one <a href="https://www.facebook.com/jayneeshquotes/">Jayneesh Quotes</a>.</h3>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <img src = "image/jquotes.jpg" alt="JayQuotes" height="120" width="150" />
-                        </span>
-                    </div>
-                    <div class="panel-body">
-                        <h4><b>Jayneesh Quotes</b></h4>
-                        <p>Jayneesh Quotes is a page I manage on Facebook for a friend. He writes the quotes. I generate the graphics and also write the captions for the quotes. I also manage the advertisement aspect of the page, managing the stats of the page et al.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading"  style="text-align: left; padding-left: 20%">
-                        <span class="fa-stack fa-5x">
-                              <img src = "image/mebass.jpg" alt="mebass" height="120" width="210" />
-                        </span>
-                    </div>
-                    <div class="panel-body">
-                        <h4><b>Music Time</b></h4>
-                        <p>I have been learning to play bass for about 5 months as of January 2017. I like composing music on my piano for songs closer to my heart. Bass and Guitar has been mostly to sate my love for Rock and Metal. <strong>\m/ Hail \m/</strong></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading"  style="text-align: left; padding-left: 20%">
-                        <span class="fa-stack fa-5x">
-                              <img src = "image/counterstrike.jpg" alt="Seg Fault" height="120" width="210" />
-                        </span>
-                    </div>
-                    <div class="panel-body">
-                        <h4><b>COUNTER STRIKE!!!!! - GAMING GENERALLY</b></h4>
-                        <p>I love Gaming [period]. As such I am huge into shooters and RPGs with a good storyline. Obvious exception being <i> Counter Strike</i>. I love making maps for most games I play, but mostly for CS:GO. Catch me on Steam. <a href="http://steamcommunity.com/id/tuere1194">Steam Username : ak_abhishek</a>.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <!-- /.row -->
         <!-- Features Section -->
                 <!-- Marketing Icons Section -->
         

@@ -47,9 +47,6 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="about.php">About</a>
-                    </li>
                     <li class="active">
                         <a href="projects.php">Projects</a>
                     </li>
@@ -88,43 +85,127 @@
 
        
         <!-- Portfolio Section -->
+       <!-- Team Members -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Teams I have worked with...</h2>
-                <h3> I have worked with a number of teams, as either a technical team member, a leader, a mentor or simply in organizational and managerial roles. Here's pictures from a few select moments being part of those awesome teams!!</h3>
+                <h2 class="page-header">People I have worked with</h2>
             </div>
-
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/tutr_700x450.jpg" alt="Team Tutr">
-                </a>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <div class="caption">
+                        <h3>Gautam Hattiangadi<br>
+                            <small>Head Project Manager</small>
+                        </h3>
+                        <p>Has been Lead Manager and defined Project Guidelines for all the projects I have completed in this organization.</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/7.jpg" alt="">
-                </a>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <div class="caption">
+                        <h3>Yazad Balsara<br>
+                            <small>Project Manager</small>
+                        </h3>
+                        <p>Has been my reporting manager for my project Felicity - Service Desk, Hydra - Middleware and Amaze - iMobile Analytics.</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/3.jpg" alt="">
-                </a>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <div class="caption">
+                        <h3>Manoj Gulahe<br>
+                            <small>Team Lead</small>
+                        </h3>
+                        <p>Has been my team lead for the Java Application Development Section for my project Amaze - iMobile Analytics.</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/4.jpg" alt="">
-                </a>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <div class="caption">
+                        <h3>Abhishek Kulkarni<br>
+                            <small>Tech Team Lead</small>
+                        </h3>
+                        <p>Has been my mentor and Team Lead for my projects Felicity Service Desk, Vulnerability and System Monitoring, Hydra - Middleware and Amaze - iMobile Analytics.</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/5.jpg" alt="">
-                </a>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <div class="caption">
+                        <h3>Jagruti Sangani<br>
+                            <small>Team Lead</small>
+                        </h3>
+                        <p>Has been my team lead for Felicity Service Desk.</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="image/8.jpg" alt="">
-                </a>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <div class="caption">
+                        <h3>Shraddharsh Sonwane<br>
+                            <small>Lead Developer</small>
+                        </h3>
+                        <p>Has been my colleague for Hydra - Middleware and Vulnerability and System Monitoring.</p>
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-2x fa-facebook-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-linkedin-square"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-2x fa-twitter-square"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
+        <!-- /.row -->
         <!-- /.row -->
 
         <!-- Service List -->
@@ -137,13 +218,13 @@
             <div class="col-lg-12">
 
                 <ul id="myTab" class="nav nav-tabs nav-justified">
-                    <li class="active"><a href="#service-one" data-toggle="tab"><i class="fa fa-terminal"></i> &nbsp; Algorithms</a>
+                    <li class="active"><a href="#service-one" data-toggle="tab"><i class="fa fa-terminal"></i> &nbsp; Felicity Service Desk</a>
                     </li>
-                    <li class=""><a href="#service-two" data-toggle="tab"><i class="fa fa-unlock"></i> Security </a>
+                    <li class=""><a href="#service-two" data-toggle="tab"><i class="fa fa-unlock"></i> Vulnerability and System Monitoring </a>
                     </li>
-                    <li class=""><a href="#service-three" data-toggle="tab"><i class="fa fa-eye"></i> Artificial Intelligence</a>
+                    <li class=""><a href="#service-three" data-toggle="tab"><i class="fa fa-eye"></i> Hydra - Middleware </a>
                     </li>
-                    <li class=""><a href="#service-four" data-toggle="tab"><i class="fa fa-bar-chart"></i> Report-based </a>
+                    <li class=""><a href="#service-four" data-toggle="tab"><i class="fa fa-bar-chart"></i> Amaze - iMobile Analytics Engine </a>
                     </li>
                 </ul>
 
