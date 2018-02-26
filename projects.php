@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Abhishek Aravind Kulkarni</title>
+    <title>Snehal Satish Kalke</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -186,7 +186,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; abhishek-tuere.me 2016</p>
+                    <p>No Copyrights Intended.</p>
                 </div>
             </div>
         </footer>

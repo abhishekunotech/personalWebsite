@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Abhishek Kulkarni's Personal Web Site">
-    <meta name="author" content="Abhishek Aravind Kulkarni">
+    <meta name="description" content="Snehal Kalke's Personal Web Site">
+    <meta name="author" content="Snehal Satish Kalke">
 
-    <title>Abhishek Aravind Kulkarni</title>
+    <title>Snehal Satish Kalke</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -200,7 +200,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; abhishek-tuere.me 2016</p>
+                    <p>No Copyrights Intended.</p>
                 </div>
             </div>
         </footer>

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Abhishek Aravind Kulkarni</title>
+    <title>Snehal Satish Kalke</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -42,7 +42,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Abhishek Kulkarni</a>
+                <a class="navbar-brand" href="index.php">Snehal Kalke</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -106,7 +106,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; abhishek-tuere.me, 2016</p>
+                    <p>No Copyrights intended.</p>
                 </div>
             </div>
         </footer>
