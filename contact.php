@@ -87,29 +87,24 @@
             <!-- Map Column -->
             <div class="col-md-8">
                 <!-- Embedded Google Map -->
-                <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+                <iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=Shanti%20Ananya%20CHS%2C%20Thane%20and%20Belapur%20Rd%2C%20Kopar%20Khairane%2C%20Navi%20Mumbai%2C%20Maharashtra%20400709%2C%20India+(Snehal%20Kalke)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/create-google-map/">Add map to website</a></iframe>
             </div>
             <!-- Contact Details Column -->
             <div class="col-md-4">
                 <h3>Contact Details</h3>
                 <p>
-                    205 Springville Avenue<br>Amherst, NY 14226<br>
+                    Flat No. 403, Shanti Ananya CHS, Thane - Belapur Road, Near Kopar Khairane Railway Station,<br>KoparKhairane, Navi Mumbai, 400709<br>
                 </p>
                 <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">P</abbr>: (716) 951-6149</p>
+                    <abbr title="Phone">P</abbr>: 9594754243</p>
                 <p><i class="fa fa-envelope-o"></i> 
-                    <abbr title="Email">E</abbr>: <a href="mailto:ak229@buffalo.edu">ak229@buffalo.edu</a>
+                    <abbr title="Email">E</abbr>: <a href="mailto:snehal.kalke666@gmail.com">snehal.kalke666@gmail.com</a>
                 </p>
                 <p><i class="fa fa-clock-o"></i> 
-                    <abbr title="Hours">H</abbr>: Monday - Friday: 10:00 AM to 4:00 PM</p>
+                    <abbr title="Hours">H</abbr>: Monday - Friday: 10:00 AM to 6:00 PM</p>
                 <ul class="list-unstyled list-inline list-social-icons">
                     <li>
-                        <a href="https://www.facebook.com/tuereabhi"><i class="fa fa-facebook-square fa-2x"></i></a>
-                    </li>
-                    
-                    
-                    <li>
-                        <a href="https://plus.google.com/107982005182779783825"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                        <a href="https://www.facebook.com/snehal.kalke"><i class="fa fa-facebook-square fa-2x"></i></a>
                     </li>
                 </ul>
             </div>
