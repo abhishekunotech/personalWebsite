@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Abhishek Kulkarni's Personal Web Site">
-    <meta name="author" content="Abhishek Aravind Kulkarni">
+    <meta name="description" content="Snehal Kalke's Personal Web Site">
+    <meta name="author" content="Snehal Satish Kalke">
 
-    <title>Abhishek Aravind Kulkarni</title>
+    <title>Snehal Satish Kalke</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -72,39 +72,28 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">
-                    Welcome to Abhishek Kulkarni's Profile!
+                    Welcome to Snehal Kalke's Profile!
                 </h1>
             </div>
-            <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-bitbucket"></i> Bitbucket Profile</h4>
-                    </div>
-                    <div class="panel-body">
-                        <p>I have 15 repositories that I have created or contributed to on my Bitbucket Profile. These are mostly references to the course projects I completed as a part of my studies as a Masters Student at SUNY at Buffalo.</p>
-                        <a href="https://bitbucket.org/ak29/profile/repositories" class="btn btn-default">Link to my Profile</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-linkedin"></i> LinkedIn Profile</h4>
                     </div>
                     <div class="panel-body">
                         <p>For a description of my work over the years, including non-coding projects, my achievements, certifications and personal details.</p>
-                        <a href="https://www.linkedin.com/in/abhishek816" class="btn btn-default">Access my profile</a>
+                        <a href="https://in.linkedin.com/in/snehal-kalke-4b5090115" class="btn btn-default">Access my profile</a>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-github"></i> Github Profile</h4>
                     </div>
                     <div class="panel-body">
-                        <p>I have 18 repositories that I have created or contributed to on my Github Profile. These also include the hackathon projects and side projects, I have mentored.</p>
-                        <a href="https://github.com/ak229" class="btn btn-default">Link to my Github profile</a>
+                        <p>I have a number of repositories that I have created or contributed to on my Github Profile. These also include the work projects and side projects, I have helped co-develop.</p>
+                        <a href="https://github.com/snehalkalke5" class="btn btn-default">Link to my Github profile</a>
                     </div>
                 </div>
             </div>
@@ -118,7 +107,7 @@
             </div>
             
             <div class="col-lg-12">
-                <embed src="pdfFiles/Resume_ak229_security.pdf" width="1156" height="960" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+                <embed src="pdfFiles/Resume_Snehal.pdf" width="1156" height="960" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
             </div>
         </div>
 
@@ -129,7 +118,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; abhishek-tuere.me 2016</p>
+                    <p>No Copyrights intended.</p>
                 </div>
             </div>
         </footer>

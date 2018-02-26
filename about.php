@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Abhishek Aravind Kulkarni</title>
+    <title>Snehal Satish Kalke</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -107,8 +107,8 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>Jayneesh Wanjara<br>
-                            <small>Job Title</small>
+                        <h3>Gautam Hattiangadi<br>
+                            <small>Head Project Manager</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
                         <ul class="list-inline">
@@ -126,8 +126,8 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>Devasia Thomas<br>
-                            <small>Job Title</small>
+                        <h3>Yazad Balsara<br>
+                            <small>Project Manager</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
                         <ul class="list-inline">
@@ -145,8 +145,8 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>Dhaval Taunk<br>
-                            <small>Job Title</small>
+                        <h3>Manoj Gulahe<br>
+                            <small>Team Lead</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
                         <ul class="list-inline">
@@ -164,8 +164,8 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>Anish Joshi<br>
-                            <small>Job Title</small>
+                        <h3>Abhishek Kulkarni<br>
+                            <small>Tech Team Lead</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
                         <ul class="list-inline">
@@ -183,8 +183,8 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>Akshay Suresh<br>
-                            <small>Job Title</small>
+                        <h3>Jagruti Sangani<br>
+                            <small>Team Lead</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
                         <ul class="list-inline">
@@ -202,8 +202,8 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>Akash Gupta<br>
-                            <small>Job Title</small>
+                        <h3>Shraddharsh Sonwane<br>
+                            <small>Lead Developer</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
                         <ul class="list-inline">
@@ -226,7 +226,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; abhishek-tuere.me 2016</p>
+                    <p>No Copyrights intended.</p>
                 </div>
             </div>
         </footer>
